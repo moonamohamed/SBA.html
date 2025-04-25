@@ -1,0 +1,32 @@
+body {
+    background-color: blueviolet;
+    display: center;     
+}
+
+img{
+    height: 200px;
+}
+.nav-item1 {
+    text-decoration: underline;
+    text-decoration-color: rgb(241, 121, 181);
+    font-size: 200%;
+}
+.nav-item2 {
+    text-decoration: underline;
+    text-decoration-color: rgb(241, 121, 181);
+    font-size: 200%;
+}
+.nav-item3 {
+    text-decoration: underline;
+    text-decoration-color: rgb(241, 121, 181);
+    font-size: 200%;
+}
+.nav-item4 {
+    text-decoration: underline;
+    text-decoration-color: rgb(241, 121, 181);
+    font-size: 200%;
+}
+table {
+    justify-content: center;
+    align-items: flex-start;
+}
