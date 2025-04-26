@@ -5,14 +5,20 @@ body {
 
 img{
     height: 200px;
-    width: 400px;
+    width: 600px;
+    transition: 5s ease-in-out;
     
+} 
+img{
+    transform: rotate(360deg);
 }
+
 .nav-item1 {
     text-decoration: underline;
     text-decoration-color: rgb(241, 121, 181);
-    font-size: 200%;
+    font-size: 200%;    
 }
+
 .nav-item2 {
     text-decoration: underline;
     text-decoration-color: rgb(241, 121, 181);
